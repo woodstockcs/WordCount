@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- SEO -->
+    <title>Blog</title>
+    <meta name="description" content="Split is a centrally-divided layout for a professional online presense with a big image image or video left with alongside content." />
+    <meta name="robots" content="index, follow" />
+    <meta name="referrer" content="always" />
+
+    <!-- Styles -->
+    <link rel='stylesheet' href='assets/css/split.css' type='text/css' media='screen' />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  </head>
+
+  <body id="fullsingle" class="page-template-page-fullsingle-split">
+
+    <div class="fs-split">
+
+      <!-- Self-Hosted Video Side -->
+      <div class="split-image split-video">
+        <video class="video" muted autoplay loop src="videos/Clouds_Fly_By.webm"></video>
+      </div>
+
+      <!-- Content Side -->
+      <div class="split-content">
+        <div class="split-content-vertically-center">
+
+          <!-- START BLOG TITLE -->
+          <div class="split-intro">
+            <h1>
+              Caoimhe Lyons
+            </h1>
+          </div>
+          <!-- END BLOG TITLE -->
+
+          <!-- START BLOG POST -->
+          <div class="split-intro tagline">
+            Class Norms
+          </div>
+          <div class="split-bio">
+            <p>In terms of class norms, I think I can learn about HTML coding and writing pretty easily because of my ability to listen and understand the teacher. I also think that making it a safe, productive learning environment for everyone is essential.
+            I think I'll work hard at doing what the teacher teaches me and take an interest in what I'm doing.</p>
+          </div>
+          <br />
+          <hr />
+          <!-- END BLOG POST -->
+
+          <!-- START FOOTER -->
+          <br />
+          <div class="split-credit">
+
+            <p>
+              Clouds Fly By background provided by <a href="https://coverr.co">coverr.co</a>
+              <br /> &copy;2017 <a href="https://onepagelove.com/split">Split Template</a> by <a href="https://onepagelove.com">One Page Love</a>
+            </p>
+
+            <!--
+				        To edit this credit you can remove the CC3.0 license for only $5 here: https://onepagelove.com/split
+				        this really helps contribute towards us developing more templates and means the world to me!
+				        Cheers, Rob (@robhope)
+				    -->
+
+          </div>
+          <!-- END FOOTER -->
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </body>
+
+</html>

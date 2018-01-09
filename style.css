@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(60, 114, 223);
+}
+
+
+.title {
+  textalign: center;
+  font-family: monospace;
+  font-size: 75 px;
+}

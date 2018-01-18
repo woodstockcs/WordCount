@@ -106,13 +106,98 @@ input, select {
 -------------------------------------------------------------------------------
                                 STYLE CODE:
 */
-
+body{
+  background-color: rgb(60,114,223);
+  align-items: center;
+}
 
 
 
 h1 {
-  color: red;
+  color: White;
   margin: 0px;
   text-align: center;
-  font-size: 40px;
+  font-size: 60px;
+  text-decoration: underline;
+  font-style: Monospaced;
+}
+
+h2{
+  color: White;
+  text-align: center;
+  font-size: 25px;
+}
+h3{
+  color: white;
+  text-align: center;
+}
+p
+{
+  color: White;
+  text-align: left;
+  text-indent: 25px;
+}
+#DropdownBox
+{
+  text-align: center;
+  padding: 50px 50px;
+  align-items: center;
+}
+#MasterDiv{
+  text-align: center;
+  background-color: rgb(60,114,223);
+  position: relative;
+  align-items: center;
+}
+#HundredWords{
+  padding: 50px 50px;
+  text-align: center;
+  background-color: rgb(60,114,223);
+  display: none;
+}
+#TwoHundredWords{
+  padding: 50px 50px;
+  text-align: center;
+  background-color: rgb(60,114,223);
+  display: none;
+}#ThreeHundredWords{
+  padding: 50px 50px;
+  text-align: center;
+  background-color: rgb(60,114,223);
+  display: none;
+}#FourHundredWords{
+  padding: 50px 50px;
+  text-align: center;
+  background-color: rgb(60,114,223);
+  display: none;
+}#FiveHundredWords{
+  padding: 50px 50px;
+  text-align: center;
+  background-color: rgb(60,114,223);
+  display: none;
+}#SixHundredWords{
+  padding: 50px 50px;
+  text-align: center;
+  background-color: rgb(60,114,223);
+  display: none;
+}#SevenHundredWords{
+  padding: 50px 50px;
+  text-align: center;
+  background-color: rgb(60,114,223);
+  display: none;
+}#EightHundredWords{
+  padding: 50px 50px;
+  text-align: center;
+  background-color: rgb(60,114,223);
+  display: none;
+}#NineHundredWords{
+  padding: 50px 50px;
+  text-align: center;
+  background-color: rgb(60,114,223);
+  display: none;
+}#ThousandWords{
+  padding: 50px 50px;
+  text-align: center;
+  background-color: rgb(60,114,223);
+  display: none;
 }
